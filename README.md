@@ -1,6 +1,9 @@
 # DCGAN_Montage_2018.6.26
 Make montage images for find criminals
 
+# Paper
+https://drive.google.com/file/d/1kXNM9A40gfnT80rt7mFqiintzA0xst9w/view
+
 # Development Environment
 1. OS : Ubuntu Linux 18.04
 2. Datasets : celebA (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
