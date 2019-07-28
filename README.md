@@ -23,7 +23,7 @@ Make montage images for find criminals
 ![1](https://user-images.githubusercontent.com/37236920/62009634-6213f380-b19c-11e9-827b-43f7ca35b118.png)
 
 # Learning Result
-![2](https://user-images.githubusercontent.com/37236920/62009649-a1424480-b19c-11e9-848a-93036799ff38.png)
+![2](https://user-images.githubusercontent.com/37236920/62009683-0eee7080-b19d-11e9-96df-a6e7fb3e563f.png)
 
 # Interpolation
 ![3](https://user-images.githubusercontent.com/37236920/62009652-ae5f3380-b19c-11e9-8e3a-3ae00025f6c3.png)
