@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1kXNM9A40gfnT80rt7mFqiintzA0xst9w/view
 2. Datasets : celebA (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 3. Tools & Libraries : PyTorch, Google Vision API, python3
 4. Learning Model(GAN) : DCGAN
-5. Hardware Resource : NVIDIA GEFORCE GTX 1080ti
+5. Hardware Resource(GPU) : NVIDIA GEFORCE GTX 1080ti
 6. Deep Neural Network library  : NVIDIA CUDA cuDNN
 
 # Attributes
